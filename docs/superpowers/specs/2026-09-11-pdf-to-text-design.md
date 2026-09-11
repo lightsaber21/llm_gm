@@ -6,7 +6,7 @@ Add a small script that extracts text from a PDF and writes a UTF-8 text or Mark
 
 ## Approach
 
-Use `PyMuPDF` (`fitz`) because it is fast, reliable for ordinary PDFs, and keeps the script small. Avoid OCR, table reconstruction, and custom layout parsing.
+Use `PyMuPDF` because it is fast, reliable for ordinary PDFs, and keeps the script small. Avoid OCR, table reconstruction, and custom layout parsing.
 
 ## Interface
 
